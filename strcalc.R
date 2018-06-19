@@ -1,3 +1,4 @@
+
 compute = function(input_string) {
   values = unlist(strsplit(input_string, ' '))
   num0 = as.integer(values[1])
